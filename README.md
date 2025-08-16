@@ -26,4 +26,3 @@ Este repositorio contiene dos prácticas de **Procesamiento de Lenguaje Natural 
   import nltk                         # Librería para procesamiento de lenguaje natural
   from nltk.sentiment.vader import SentimentIntensityAnalyzer  # Analizador de sentimiento VADER
   from sklearn.metrics import accuracy_score, confusion_matrix, classification_report     # Métricas de evaluación para modelos de clasificación
-  import re                           # Librería para trabajar con expresiones regulares, permite buscar, extraer y manipular patrones de texto de manera eficiente
